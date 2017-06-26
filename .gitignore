@@ -3,6 +3,7 @@
 *.idea
 /nightwatch.json
 npm-debug.log
+node_modules/
 lib-cov
 coverage.html
 selenium-debug.log
